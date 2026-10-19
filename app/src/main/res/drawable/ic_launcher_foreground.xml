@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Open gauge arc with a bolt: the ChargeLens mark -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:strokeColor="#FF262A28" android:strokeWidth="7" android:strokeLineCap="round"
+        android:pathData="M39.86,68.14 A20,20 0 1,1 68.14,68.14" />
+    <path android:strokeColor="#FFA8D8A0" android:strokeWidth="7" android:strokeLineCap="round"
+        android:pathData="M39.86,68.14 A20,20 0 1,1 74,54" />
+    <path android:fillColor="#FFA8D8A0"
+        android:pathData="M56,40 L46,56 L53,56 L50,68 L61,51 L54,51 Z" />
+</vector>

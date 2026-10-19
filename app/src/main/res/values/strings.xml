@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChargeLens</string>
+    <string name="dream_label">ChargeLens</string>
+    <string name="channel_monitoring">Battery monitoring</string>
+    <string name="channel_monitoring_desc">Ongoing notification with live battery percentage, power and temperature</string>
+    <string name="channel_charging">Charging screen</string>
+    <string name="channel_charging_desc">Opens the charging screen when a charger is connected</string>
+</resources>
